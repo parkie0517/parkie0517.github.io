@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Heejun Park
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Heejun
+last_name: Park
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🐱
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,31 +27,30 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: KAIST Visual Inteligence Lab
+    url: https://vi.kaist.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:parkhee.ticket@kaist.ac.kr'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/parkie0517
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/parkheejun/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Multi-modal Learning
+  - 3D Computer Vision
+  - Parameter-efficient Fine-tuning
 
 education:
   - area: PhD Computer Science (AI Focus)
@@ -65,10 +64,10 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
   - area: MS Computer Science
-    institution: Carnegie Mellon University
+    institution: KAIST
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2024-09-01
+    date_end: 2026-08-31
     summary: |
       GPA: 4.0/4.0
 
@@ -136,10 +135,10 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -169,4 +168,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Heejun Park is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
