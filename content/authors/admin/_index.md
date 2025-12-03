@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:parkhee.ticket@kaist.ac.kr'
     label: E-mail Me
-  - icon: custom/medium
+  - icon: M
     url: https://medium.com/@parkie0517
   - icon: brands/github
     url: https://github.com/parkie0517
