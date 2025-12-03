@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PAGE UNDER CONSTRUCTION
+title: Heejun Park
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -36,8 +36,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:parkhee.ticket@kaist.ac.kr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/AlexAIResearch
+  - icon: medium
+    url: https://medium.com/@parkie0517
   - icon: brands/github
     url: https://github.com/parkie0517
   - icon: brands/linkedin
