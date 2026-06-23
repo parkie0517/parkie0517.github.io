@@ -10,7 +10,7 @@ first_name: Heejun
 last_name: Park
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Autonomous Vehicle Research Scientist
+role: Autonomous Vehicle Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -157,4 +157,4 @@ awards:
   #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Heejun Park is a VLA Research Intern at 42dot, where he works on groundbreaking camera-based VLA models. His research has been published in top conferences like NeurIPS, ECCV, and ICCV. Heejun is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys jogging by the Han River, supporting Arsenal Football Club, and mentoring the next generation of AI talent.
+Heejun Park is an MS sudent at Visual Intelligence Lab, where he works on groundbreaking camera-based VLA models. His research has been published in top conferences like NeurIPS, ECCV, and ICCV. Heejun is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys jogging by the Han River, supporting Arsenal Football Club, and mentoring the next generation of AI talent.
