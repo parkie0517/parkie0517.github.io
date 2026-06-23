@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Autonomous Vehicle Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,46 +48,37 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Multi-modal Learning
-  - 3D Computer Vision
-  - Parameter-efficient Fine-tuning
+  - 3D Scene Understanding
+  - Sensor Fusion
+  - End-to-End Autonomous Driving
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
+  - area: MS Division of Future Vehicle
     institution: KAIST
     icon: ""
     date_start: 2024-09-01
     date_end: 2026-08-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Thesis: Image Reliability-Aware Fusion of Camera, LiDAR, and 4D Radar for Robust 3D Object Detection in Adverse Weather. Supervised by Prof. Kuk-Jin Yoon. Published 4 papers in NeurIPS, ECCV, and ICCV.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com/thesis.pdf'
+  - area: BS Computer Engineering
+    institution: Yonsei University Mirae Campus
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2018-03-01
+    date_end: 2024-08-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 4.24/4.3
 
-      Minored in Mathematics. President of AI Club.
+      Graduated Summa Cum Laude.
 
 work:
   - position: Senior AI Research Scientist
-    company_name: Meta AI
+    company_name: 42dot
     company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2026-06-29
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
