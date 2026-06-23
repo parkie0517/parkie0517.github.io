@@ -62,7 +62,7 @@ education:
       Thesis: Image Reliability-Aware Fusion of Camera, LiDAR, and 4D Radar for Robust 3D Object Detection in Adverse Weather. Supervised by Prof. Kuk-Jin Yoon. Published 4 papers in NeurIPS, ECCV, and ICCV.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'https://github.com/parkie0517/parkie0517.github.io/blob/main/static/uploads/RAF.pdf'
   - area: BS Computer Engineering
     institution: Yonsei University Mirae Campus
     icon: ""
@@ -70,26 +70,17 @@ education:
     date_end: 2024-08-31
     summary: |
       GPA: 4.24/4.3
-
       Graduated Summa Cum Laude.
 
 work:
-  - position: Senior AI Research Scientist
+  - position: VLA Research Intern
     company_name: 42dot
-    company_url: 'https://ai.meta.com/'
+    company_url: 'https://42dot.ai/'
     icon: ''
     date_start: 2026-06-29
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on camera-based VLA autonomous driving models.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -104,19 +95,19 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+      # - name: Cloud Computing (AWS/GCP)
+      #   description: ''
+      #   percent: 85
+      #   icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Jogging
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Supporting Arsenal Football Club
         description: ''
         percent: 90
         icon: cpu-chip
@@ -139,24 +130,31 @@ awards:
   - title: Best Paper Award
     url: https://neurips.cc/
     date: '2022-12-01'
-    awarder: NeurIPS
+    awarder: Korean Institute of Intellignet Systems
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded for investigating the vulnerability of 3D object classifiers to backdoor attack.
+  # - title: Best Paper Award
+  #   url: https://neurips.cc/
+  #   date: '2022-12-01'
+  #   awarder: NeurIPS
+  #   icon: hero/trophy
+  #   summary: |
+  #     Awarded for groundbreaking work on efficient training of large models.
+  # - title: AI Innovation Grant
+  #   url: https://www.nsf.gov/
+  #   date: '2021-06-15'
+  #   awarder: National Science Foundation
+  #   icon: hero/currency-dollar
+  #   summary: |
+  #     $500,000 grant for research in ethical AI development.
+  # - title: Outstanding PhD Thesis
+  #   url: https://www.stanford.edu/
+  #   date: '2019-06-30'
+  #   awarder: Stanford University
+  #   icon: hero/academic-cap
+  #   summary: |
+  #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Heejun Park is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Heejun Park is a VLA Research Intern at 42dot, where he works on groundbreaking camera-based VLA models. His research has been published in top conferences like NeurIPS, ECCV, and ICCV. Heejun is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys jogging by the Han River, supporting Arsenal Football Club, and mentoring the next generation of AI talent.
