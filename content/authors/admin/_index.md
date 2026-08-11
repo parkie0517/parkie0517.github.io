@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Autonomous Vehicle Researcher
+role: Autonomous Driving Validation Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: KAIST Visual Inteligence Lab
-    url: https://vi.kaist.ac.kr/
+  - name: Hyundai Motor Company
+    url: https://www.hyundai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -157,4 +157,4 @@ awards:
   #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Heejun Park is an MS sudent at Visual Intelligence Lab, where he works on groundbreaking camera-based VLA models. His research has been published in top conferences like NeurIPS, ECCV, and ICCV. Heejun is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys jogging by the Han River, supporting Arsenal Football Club, and mentoring the next generation of AI talent.
+Heejun Park is an Autonomous Vehicle Researcher at Hyundai Motor Company, where he works on ensuring the safety of groundbreaking camera-based E2E models. His research has been published in top conferences like NeurIPS, ECCV, and ICCV. Heejun is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys jogging by the Han River, supporting Arsenal Football Club, and mentoring the next generation of AI talent.
