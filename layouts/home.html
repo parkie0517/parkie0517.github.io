@@ -1,0 +1,15 @@
+{{ $resumeURL := "uploads/resume.pdf" | absURL }}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0; url={{ $resumeURL }}">
+    <link rel="canonical" href="{{ $resumeURL }}">
+    <title>Redirecting to Heejun Park's resume...</title>
+    <script>window.location.replace({{ $resumeURL | jsonify | safeJS }});</script>
+  </head>
+  <body>
+    <p>Redirecting to <a href="{{ $resumeURL }}">Heejun Park's resume</a>...</p>
+  </body>
+</html>
